@@ -23,6 +23,7 @@
 - [Ontology](graph/ontology.md)
 - [Graph RAG](graph/graph-rag.md)
 - [Graph RAG 종류와 용도 정리](graph/graph-rag-types-and-use-cases.md)
+- [RAG 검색 구조 정리: BM25부터 Graph RAG까지](graph/rag-retrieval-bm25-to-graph-rag.md)
 - [Graphiti](graph/graphiti.md)
 
 ### 4. Backend (`backend/`)
